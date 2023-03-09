@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Daniel Rodrigues!</h1>
+<h3 align="left">I'm a passionate, detail-oriented, front-end developer from Portugal.</h3>
 
-<!--
-**danielmsrodrigues/danielmsrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+/>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="css3" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=html5&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=html5&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Find more about me on:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/daniel-mateus-soares-rodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-mateus-soares-rodrigues" height="30" width="40" /></a>
+<a href="https://instagram.com/danieel_rodriguess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danieel_rodriguess" height="30" width="40" /></a>
+</p>
+
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmsrodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="danielmsrodrigues" /> </p>
