@@ -16,8 +16,8 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="C#" src="https://img.shields.io/badge/-C#-43853d?style=flat-square&logo=CSharp&logoColor=white" />
-<img alt="Blazor" src="https://img.shields.io/badge/-C#-43853d?style=flat-square&logo=CSharp&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+<img alt="Blazor" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" />
 </p>
 
 
