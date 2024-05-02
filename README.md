@@ -24,7 +24,6 @@
 <h3 align="left">Find more about me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-mateus-soares-rodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-mateus-soares-rodrigues" height="30" width="40" /></a>
-<a href="https://instagram.com/danieel_rodriguess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danieel_rodriguess" height="30" width="40" /></a>
 </p>
 
 <br/>
